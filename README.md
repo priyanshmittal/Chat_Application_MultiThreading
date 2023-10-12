@@ -22,7 +22,7 @@ Follow these steps to set up the Multi-User Chat App locally on your machine:
 <li>Compile and Run: Build and run the application from your IDE.</li>
 
 <h3>Contact</h3>
-If you have any questions or suggestions, feel free to reach out to us at dharmendragangwar57@gmail.com.<br>
+If you have any questions or suggestions, feel free to reach out to us at priyanshmittal108@gmail.com.<br>
 
 Thank you for checking out our Multi-User Chat App (Java)! We hope you enjoy using it as much as we enjoyed building it. <br>
 Happy chatting!
